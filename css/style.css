@@ -1,0 +1,19 @@
+body {
+    background-color: #c9ecc9 ;
+    color:  #4a3e2f;
+    font-family: 'Noto Sans JP', sans-serif; /* Default, clean Japanese font */
+}
+
+h1{
+    text-align: center;
+}
+.align {
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+.dish{
+    height: 200px;
+    width: auto;
+    margin: 25px;
+}
