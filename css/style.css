@@ -17,3 +17,9 @@ h1{
     width: auto;
     margin: 25px;
 }
+.dish.sep{
+    display: block;
+    height: 350px;
+    width: auto;
+    margin: 50px auto;    
+}
