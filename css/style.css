@@ -1,0 +1,48 @@
+body {
+    background-color: #c9ecc9 ;
+    color:  #4a3e2f;
+    font-family: 'Noto Sans JP', sans-serif; /* Default, clean Japanese font */
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+a{
+    font-size: 25px;
+}
+
+.align {
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+.dish{
+    height: 275px;
+    width: auto;
+    margin: 25px;
+}
+.dish.sep{
+    display: block;
+    height: 450px;
+    width: auto;
+    margin: 50px auto;    
+}
+
+.center-text{
+    width: 700px;
+    height: auto;
+    padding: 50px;
+    background-color: #b6f094f4;
+    margin: 20px auto;
+
+}
+
+.home{
+    width: 120px;
+    height: auto;
+    padding: 10px;
+    background-color: aquamarine;
+    margin: 10px auto;
+    text-align: center;
+}
